@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" 
+    android:background="@android:color/background_light">
+
+     <RelativeLayout
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:paddingTop="10dp" >
+
+		<TextView
+		    android:id="@+id/textView3"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_centerHorizontal="true"
+		    android:paddingLeft="5dp"
+		    android:text="Set path from:"
+		    android:textAppearance="?android:attr/textAppearanceLarge" />
+
+		<ImageView
+		    android:id="@+id/imageView1"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_alignParentTop="true"
+		    android:layout_toLeftOf="@+id/textView3"
+		    android:src="@drawable/homesearch" />
+
+	  </RelativeLayout>
+  
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="20dp" >
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="16dp"
+            android:text="Start Point:"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <Spinner
+            android:id="@+id/srcSpinner"
+            android:layout_width="137dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="32dp"
+            android:layout_toRightOf="@+id/textView2"
+            android:entries="@array/building_array"
+            android:prompt="@string/src_prompt"
+            android:spinnerMode="dialog" />
+
+    </RelativeLayout>
+    
+      <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+		 <TextView
+		     android:id="@+id/textView1"
+		     android:layout_width="wrap_content"
+		     android:layout_height="wrap_content"
+		     android:layout_alignParentLeft="true"
+		     android:layout_centerVertical="true"
+		     android:layout_marginLeft="16dp"
+		     android:text="End Point:"
+		     android:textAppearance="?android:attr/textAppearanceMedium" />
+		
+		 <Spinner
+		     android:id="@+id/destSpinner"
+		     android:layout_width="138dp"
+		     android:layout_height="wrap_content"
+		     android:layout_alignParentTop="true"
+		     android:layout_marginLeft="39dp"
+		     android:layout_toRightOf="@+id/textView1"
+		     android:entries="@array/building_array"
+		     android:prompt="@string/dest_prompt"
+		     android:spinnerMode="dialog" />
+	
+	</RelativeLayout>
+    
+
+	<RelativeLayout
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content" >
+	
+	    <Button
+	        android:id="@+id/setPathButton"
+	        android:layout_width="150dp"
+	        android:layout_height="wrap_content"
+	        android:layout_alignParentRight="true"
+	        android:layout_alignParentTop="true"
+	        android:text="set path"
+	        android:textColor="@android:color/black" />
+	
+	    <Button
+	        android:id="@+id/dismiss"
+	        android:layout_width="150dp"
+	        android:layout_height="wrap_content"
+	        android:layout_alignParentLeft="true"
+	        android:layout_alignParentTop="true"
+	        android:text="cancel"
+	        android:textColor="@android:color/black" />
+	</RelativeLayout>
+
+	
+ 
+</LinearLayout>

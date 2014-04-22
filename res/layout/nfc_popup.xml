@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="36dp"
+        android:src="@drawable/result" />
+
+    <Button
+        android:id="@+id/destination_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/nfc_destination_text"
+        android:layout_alignBottom="@+id/nfc_destination_text"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="17dp"
+        android:onClick="viewBuildingInfoDestination"
+        android:text="Info" />
+
+    <TextView
+        android:id="@+id/nfc_source_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/destination_button"
+        android:layout_alignRight="@+id/imageView1"
+        android:text="SC"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/nfc_destination_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/textView2"
+        android:layout_alignBottom="@+id/textView2"
+        android:layout_alignLeft="@+id/nfc_source_text"
+        android:text="DS"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <Button
+        android:id="@+id/source_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/nfc_source_text"
+        android:layout_alignBottom="@+id/nfc_source_text"
+        android:layout_alignLeft="@+id/destination_button"
+        android:onClick="viewBuildingInfoSource"
+        android:text="Info" />
+
+    <Button
+        android:id="@+id/nfc_path_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/destination_button"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:onClick="findNFCPath"
+        android:text="Find Path" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/nfc_source_text"
+        android:layout_alignBottom="@+id/nfc_source_text"
+        android:layout_alignRight="@+id/textView2"
+        android:text="Source:"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageView1"
+        android:layout_marginRight="23dp"
+        android:layout_marginTop="77dp"
+        android:layout_toLeftOf="@+id/nfc_destination_text"
+        android:text="Destination:"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/popupLabel"
+        android:visibility="invisible"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/nfc_source_text"
+        android:text="Small Text"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+    />
+
+</RelativeLayout>

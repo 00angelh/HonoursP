@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/settings"
+        android:title="@string/action_settings">
+         
+         <menu>
+             <item android:id="@+id/about"
+                  android:title="@string/about" />
+        </menu>
+        </item>
+    
+    <item android:id="@+id/launch_test"
+          android:icon="@drawable/homesearch"
+          android:title="@string/app_name"
+          android:showAsAction="ifRoom" />
+    
+    
+
+</menu>

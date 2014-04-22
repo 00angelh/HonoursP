@@ -1,0 +1,1118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CU Maps</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="help">Help</string>
+    
+     <string name="src_prompt">Choose a starting point</string>
+     <string name="dest_prompt">Choose a target point</string>
+    <string-array name="building_array">
+	    <item>AH</item>
+	    <item>AA</item>
+	    <item>AC</item>
+	    <item>AP</item>
+	    <item>AT</item>
+	    <item>IH</item>
+	    <item>TT</item>
+	    <item>CB</item>
+	    <item>CC</item>
+	    <item>DT</item>
+	    <item>FH</item>
+	    <item>FR</item>
+	    <item>GH</item>
+	    <item>GR</item>
+	    <item>GY</item>
+	    <item>HP</item>
+	    <item>HC</item>
+	    <item>LH</item>
+	    <item>LE</item>
+	    <item>LX</item>
+	    <item>ML</item>
+	    <item>MB</item>
+	    <item>MC</item>
+	    <item>ME</item>
+	    <item>NB</item>
+	    <item>NW</item>
+	    <item>PA</item>
+	    <item>PH</item>
+	    <item>RB</item>
+	    <item>RH</item>
+	    <item>CO</item>
+	    <item>RO</item>
+	    <item>RU</item>
+	    <item>SP</item>
+	    <item>SR</item>
+	    <item>SA</item>
+	    <item>SC</item>
+	    <item>SD</item>
+	    <item>TB</item>
+	    <item>UC</item>
+	    <item>VS</item>
+	    <item>O1</item>
+	    <item>O2</item>
+	</string-array>
+    
+    
+    <string name="default_html">
+	<![CDATA[
+	    <html>
+		<body>
+			<h1>
+				No Description Available</h1>
+			<p>
+				Could not find a description of this building</p></body>
+		</html>
+    ]]>
+	</string>
+	
+     <string name="aa_html">
+	<![CDATA[
+	   <!-- START CONTENT -->
+		<div class="row">
+			<div class="twelve columns mobile-collapse">
+				<section class="content-columns-wrapper">
+					<section class="one-col">
+		
+		
+						<div id="content-area">
+															<h2>
+											Architecture Building (AA)								</h2>
+										<p></p>
+		<p>The Architecture Building was designed specifically for Carleton’s architecture program with its large open studio spaces, flexible classrooms, and fully-equipped work stations. Studios are open 24-hours-a-day.</p>
+		<p>Try the carpentry workshop for the construction of models and prototypes. A consulting firm run by some of the school’s best students offers Ottawa-area homeowners architectural and design services at bargain prices.</p>
+		<p><a href="http://carleton.ca/campus/accessibility-guides/architecture-building-aa-accessability/" >Campus Accessibility Guide listing for the Architecture Building</a></p>
+						</div>
+					</section>
+				</section>
+			</div>
+		</div>
+		<!-- END CONTENT -->
+    ]]>
+	</string>
+	
+     <string name="ap_html">
+	<![CDATA[
+			!-- START CONTENT -->
+		<div class="row">
+			<div class="twelve columns mobile-collapse">
+				<section class="content-columns-wrapper">
+					<section class="one-col">
+		
+		
+						<div id="content-area">
+															<h2>
+											Azrieli Pavilion								</h2>
+										<p></p>
+		<p>The new David J. Azrieli     Pavilion is located next to the Tory Building and Dunton Tower     along Library Road. The 75,000-square-foot pavilion opened in     the fall of 2002.</p>
+		<p>The pavilion will be home to the newly named David Azrieli     Institute for Graduate Studies in Architecture, as well as the     new Bachelor of Information Technology program     (www.bitdegree.ca). The building will also house the new     Azrieli Gallery, dedicated to architecture and allied arts, and     the National Capital Institute for Telecommunications — a     research consortium of facilities across the region, which will     explore the latest telecommunications technologies.</p>
+		<p>Students at the new facility have access to four large     lecture halls, specialized computer laboratories and workrooms,     and state-of-the-art classrooms, teaching studios and seminar     rooms.</p>
+		<p><a href="http://carleton.ca/campus/accessibility-guides/azrieli-pavilion/">Campus Accessibility Guide listing for Azrieli Pavilion<br />
+		</a></p>
+						</div>
+					</section>
+				</section>
+			</div>
+		</div>
+		<!-- END CONTENT -->
+	   
+    ]]>
+	</string>
+	
+     <string name="ih_html">
+	<![CDATA[
+	   <!-- START CONTENT -->
+		<div class="row">
+			<div class="twelve columns mobile-collapse">
+				<section class="content-columns-wrapper">
+					<section class="one-col">
+		
+		
+						<div id="content-area">
+															<h2>
+											Ice House (IH)								</h2>
+										<p>The Icehouse is part of Carleton University&#8217;s world class athletics facilities. The most comprehensive adult facility of its kind in central Ottawa, the $13 million state-of-the-art ice facility is the cornerstone of the Carleton Athletics Recreation Centre.</p>
+		<p>The main arena seats 500 spectators while the secondary rink accommodates 100 viewers. Operational year-round, the Icehouse features 2 NHL-sized ice surfaces with six dressing rooms per ice pad.</p>
+		<p><img class="alignnone size-large wp-image-58" title="icehouse" src="http://carleton.ca/campus/ccms/wp-content/ccms-files/icehouse-400x207.jpg" alt="icehouse" width="400" height="207" /></p>
+		<h3>Icehouse details</h3>
+		<ul>
+		<li><a href="http://carleton.ca/athletics/facilities/ice-house/" >Icehouse Website</a></li>
+		<li>2 NHL-sized ice surfaces</li>
+		<li>Year-round access (open 12 months a year)</li>
+		<li>500 spectator capacity in the main arena</li>
+		<li>100 spectator capacity in the second arena</li>
+		<li>Exceptional ice conditions</li>
+		<li>Six dressing rooms per ice pad</li>
+		<li><a href="http://www.progoaltending.com/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.progoaltending.com/']);" target="_blank">Michael Lawrence Pro Goaltending</a></li>
+		<li><a href="http://lightningblade.com/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://lightningblade.com/']);" target="_blank">Lightning Blade Sharpening</a></li>
+		</ul>
+						</div>
+					</section>
+				</section>
+			</div>
+		</div>
+		<!-- END CONTENT -->
+    ]]>
+	</string>
+	
+     <string name="tt_html">
+	<![CDATA[
+	   <!-- START CONTENT -->
+		<div class="row">
+			<div class="twelve columns mobile-collapse">
+				<section class="content-columns-wrapper">
+					<section class="one-col">
+		
+		
+						<div id="content-area">
+															<h2>
+											Carleton Technology and Training Centre								</h2>
+										<p></p>
+		<p>The Carleton Technology and Training Centre is home to the University’s Health Services, Parking Services, the Co-op Office, Environmental Health and Safety, pharmacy, dental clinic, &#8220;Treats&#8221;, and a variety of Ottawa-based companies and associations.</p>
+		<p><a href="http://carleton.ca/campus/accessibility-guides/carleton-technology-and-training-centre-cttc/" >Campus Accessibility Guide listing for the Carleton Technology and Training Centre.</a></p>
+						</div>
+					</section>
+				</section>
+			</div>
+		</div>
+		<!-- END CONTENT -->
+    ]]>
+	</string>
+	
+     <string name="cc_html">
+	<![CDATA[
+	   		<!-- START CONTENT -->
+		<div class="row">
+			<div class="twelve columns mobile-collapse">
+				<section class="content-columns-wrapper">
+					<section class="one-col">
+		
+		
+						<div id="content-area">
+															<h2>
+											Colonel By Child Care Centre (CC)								</h2>
+										<p><img class="size-full wp-image-37 alignnone" title="colby" src="http://carleton.ca/campus/wp-content/uploads/colby.gif" alt="colby" width="300" height="202" /></p>
+		<p>The <a href="http://www.cbccc.ca/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.cbccc.ca/']);" target="_blank">Colonel By Child Care Centre</a> accepts children between the ages of six months and five years.</p>
+		<p>Priority is given to students, staff, and faculty. The Centre’s staff provide programming for infants, toddlers, and preschoolers along with hot lunches and snacks.</p>
+		<p>The Centre is opened 12 months a year, Monday to Friday between 8:00 a.m. and 5:45 p.m. except on statutory holidays.</p>
+		<p>General enquiries: 613-520-2715</p>
+						</div>
+					</section>
+				</section>
+			</div>
+		</div>
+		<!-- END CONTENT -->
+    ]]>
+	</string>
+	
+     <string name="dt_html">
+	<![CDATA[
+	   <!-- START CONTENT -->
+		<div class="row">
+			<div class="twelve columns mobile-collapse">
+				<section class="content-columns-wrapper">
+					<section class="one-col">
+		
+		
+						<div id="content-area">
+															<h2>
+											Dunton Tower (DT)								</h2>
+										<p><img class="alignnone size-full wp-image-40" title="dunton" src="http://carleton.ca/campus/wp-content/uploads/dunton.jpg" alt="dunton" width="295" height="196" /></p>
+		<p>The 22-storey tower houses various schools, institutes, departments, and research centres. The Dunton Tower honours the memory of Carleton’s longest serving president A. Davidson Dunton, who led the university from 1958 to 1972. During his long and distinguished career chaired the CBC and co-chaired the Royal Commission on Bilingualism and Biculturalism.</p>
+		<h3>Occupants</h3>
+		<ul>
+		<li>Academic Staff Association, Carleton University (CUASA), Room 2004<br />
+		<a href="http://www.caut.ca/cuasa/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.caut.ca/cuasa/']);">http://www.caut.ca/cuasa/</a></li>
+		<li>Arts Faculty Lounge</li>
+		<li>Canadian Foreign Policy, Room 2109<br />
+		<a href="http://www.carleton.ca/npsia/cfpj/" >http://www.carleton.ca/npsia/cfpj/</a></li>
+		<li>Canadian Historical Association Journal/<br />
+		Revue de la societe historique du Canada, Room 2120</li>
+		<li>Canadian Studies, School of, Room 1206<br />
+		<a href="http://www.carleton.ca/cdnstudies/" >http://www.carleton.ca/cdnstudies/</a></li>
+		<li>Canadian-Russian Relations, Centre for Research on (CRCR), Room 1926</li>
+		<li>Carleton Centre for Community Innovation (CCCI), Room 2104</li>
+		<li>Carleton Centre for Public History, Room 1917</li>
+		<li>Carleton Centre for the History of Migration, Room 602</li>
+		<li>Carleton University Centre for Rhetorical Studies, Room 1611</li>
+		<li>Centre for European Studies, Room 1104<br />
+		<a href="http://www.carleton.ca/ces/" >http://www.carleton.ca/ces/</a></li>
+		<li>Centre for Initiatives in Education (CIE), Room 1516<br />
+		<a href="http://www.carleton.ca/cie/" >http://www.carleton.ca/cie/</a></li>
+		<li>Centre for Social Welfare, Room 502</li>
+		<li>Centre for Voluntary Sector Research and Development (CVSRD), Room 2020<br />
+		<a href="http://www.cvsrd.org/eng/index.html" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.cvsrd.org/eng/index.html']);">http://www.cvsrd.org/eng/index.html</a></li>
+		<li>Cognitive Science, Institute of, Room 2201</li>
+		<li>East-West Project, Room 627</li>
+		<li>Educational Development Centre (EDC), Room 410<br />
+		<a href="http://www.carleton.ca/edc" >http://www.carleton.ca/edc</a></li>
+		<li>Editing Early Canadian Texts, Centre for (CEECT), Room 1911</li>
+		<li>Encyclopedia of Popular Musics of the World, Room 1909</li>
+		<li>English Language and Literature, Room 1812<br />
+		<a href="http://www.carleton.ca/english/" >http://www.carleton.ca/english/</a></li>
+		<li>Enriched Support Program, Room 1516<br />
+		<a href="http://www.carleton.ca/cie/" >http://www.carleton.ca/cie/</a></li>
+		<li>European and Russian Studies, Institute of (EURUS), Room 1311<br />
+		<a href="http://www.carleton.ca/eurus/" >http://www.carleton.ca/eurus/</a></li>
+		<li>French, Room 1602<br />
+		<a href="http://www.carleton.ca/french/" >http://www.carleton.ca/french/</a></li>
+		<li>Innovation, Science and Environment, Carleton Research Unit on, Room 1001</li>
+		<li>Institute for Comparative Studies in Literature, Art and Culture, Room 2006<br />
+		<a href="http://www.carleton.ca/icslac/" >http://www.carleton.ca/icslac/</a></li>
+		<li>Interdisciplinary Studies, Institute of (IIS), Room 2201<br />
+		<a href="http://www.carleton.ca/iis/" >http://www.carleton.ca/iis/</a></li>
+		<li>International Affairs, Norman Paterson School of (NPSIA), Room 1401<br />
+		<a href="http://www.carleton.ca/npsia/" >http://www.carleton.ca/npsia/</a></li>
+		<li>Law Students&#8217; Society, Carleton University, Room 2111</li>
+		<li>Negotiation and Dispute Resolution, Centre for, Room 1315</li>
+		<li>Policy and Program Assessment, Centre for, Room 1001</li>
+		<li>Public Policy and Administration, School of, Room 1001<br />
+		<a href="http://www.carleton.ca/spa/" >http://www.carleton.ca/spa/</a></li>
+		<li>Renaissance Studies and Research, Centre for, Room 1812</li>
+		<li>Robert Jones &#8211; Insurance, Room 408</li>
+		<li>Sprott School of Business &#8211; Main Office , Room 710<br />
+		<a href="http://sprott.carleton.ca" >http://sprott.carleton.ca</a></li>
+		<li>Sprott MBA Program &#8211; Room 310</li>
+		<li>Sprott Professional Programs &#8211; Room 312<br />
+		<a href="http://sprott.carleton.ca/ppd/" >http://sprott.carleton.ca/ppd/</a></li>
+		<li>Social Work, School of, Room 509<br />
+		<a href="http://www.carleton.ca/ssw/" >http://www.carleton.ca/ssw/</a></li>
+		<li>Studies in Political Economy: A Socialist Review (SPE), Room 2122 and 2124<br />
+		<a href="http://www.carleton.ca/spe/" >http://www.carleton.ca/spe/</a></li>
+		<li>Trade, Policy and Law, Centre for, 21st Floor<br />
+		<a href="http://www.carleton.ca/ctpl/" >http://www.carleton.ca/ctpl/</a></li>
+		<li>Women and Work, Centre for Research and Education on (CREWW), Room 804<br />
+		<a href="http://sprott.carleton.ca/creww/" >http://sprott.carleton.ca/creww/</a></li>
+		<li>Women&#8217;s Studies, Pauline Jewett Institute of, Room 1501<br />
+		<a href="http://www.carleton.ca/womensstudies/" >http://www.carleton.ca/womensstudies/</a></li>
+		</ul>
+		<p><a href="http://carleton.ca/campus/accessibility-guides/dunton-tower-dt/" >Campus Accessibility Guide listing for the Dunton Tower.</a></p>
+						</div>
+					</section>
+				</section>
+			</div>
+		</div>
+		<!-- END CONTENT -->
+    ]]>
+	</string>
+	
+     <string name="fh_html">
+	<![CDATA[
+	   <!-- START CONTENT -->
+		<div class="row">
+			<div class="twelve columns mobile-collapse">
+				<section class="content-columns-wrapper">
+					<section class="one-col">
+		
+		
+						<div id="content-area">
+															<h2>
+											Fieldhouse (Athletics)								</h2>
+										<p><img class="size-medium wp-image-43 alignright" title="photo_fieldhouse3" src="http://carleton.ca/campus/ccms/wp-content/ccms-files/photo_fieldhouse3-125x144.jpg" alt="photo_fieldhouse3" width="125" height="144" />The <a href="http://carleton.ca/athletics/facilities/fieldhouse/" >Fieldhouse </a>is located north of the main Recreation building in the Department of Athletics and Recreation. The Fieldhouse is a popular spot for Carleton students who are keen on staying in shape, and for residents in neighbouring communities as well.</p>
+		<h3>Features:</h3>
+		<ul>
+		<li>4,500 square metre sports field &#8211; Artificial turf (Rec-Turf 2)</li>
+		<li>230 metre, 3 lane jogging track &#8211; Rubber base with a poured urethane finish</li>
+		<li>Inside lane &#8211; 4.3 laps to the km/Outside Lane &#8211; 4.26 laps to the km</li>
+		<li>Full length field &#8211; approx. 65 metres long (213 feet) x 53 metres wide (173 feet)</li>
+		<li>Two cross fields: each approx. 53 metres long (173 feet) x 26 metres wide (87 feet)</li>
+		<li>Year-round access</li>
+		<li>The ability to host indoor trade shows, concerts, job fairs and community events</li>
+		</ul>
+		<p><a href="http://carleton.ca/campus/accessibility-guides/physical-recreation-centre-g-2/" >Campus Accessibility Guide listing for Fieldhouse (Athletics)</a></p>
+						</div>
+					</section>
+				</section>
+			</div>
+		</div>
+		<!-- END CONTENT -->
+    ]]>
+	</string>
+	
+     <string name="gh_html">
+	<![CDATA[
+	   <!-- START CONTENT -->
+		<div class="row">
+			<div class="twelve columns mobile-collapse">
+				<section class="content-columns-wrapper">
+					<section class="one-col">
+		
+		
+						<div id="content-area">
+															<h2>
+											Glengarry House								</h2>
+										<h3>Designated Parking</h3>
+		<p>Eight designated parking spaces are available on the east side of Stormont- Dundas House, near Para Transpo drop-off area.</p>
+		<h3>Exterior Entrance</h3>
+		<p>Accessible ramp on west side.</p>
+		<h3>Tunnel Access</h3>
+		<p>Accessible tunnel entrance to level 1 with automatic door openers.</p>
+		<h3>Elevators</h3>
+		<p>Two fully accessible elevators with horizontal control panels.</p>
+		<h3>Washrooms</h3>
+		<p>No public washrooms in this building. Washrooms in the designated accessible suites on levels 1 and 2 are accessible.</p>
+		<h3>Telephones</h3>
+		<p>Accessible pay phones on the first level.</p>
+		<h3>Lecture/Classroom areas</h3>
+		<p>Not applicable.</p>
+		<h3>Study Areas</h3>
+		<p>Not applicable.</p>
+		<h3>Proximity to Lounges/Refreshments</h3>
+		<p>Residence floors have TV lounges which are often crowded. Close to Oasis Cafeteria and to University Commons dining hall.</p>
+		<h3>Existing/Remaining Obstacles</h3>
+		<ol>
+		<li>Heavy glass doors at exterior west entrance.</li>
+		<li>Need for alternate emergency system for persons with hearing impairments.</li>
+		<li>Need for better signage system.</li>
+		</ol>
+		<h3>Remarks/Hints</h3>
+		<p>Access into the building is regulated by security card access system which is accessible to wheelchair users. This may eliminate the problem of heavy doors but creates other access problems.</p>
+		<p>Compiled by the <a href="http://www.carleton.ca/pmc/" >Paul Menton Centre for Persons with Disabilities</a>.</p>
+						</div>
+					</section>
+				</section>
+			</div>
+		</div>
+		<!-- END CONTENT -->
+    ]]>
+	</string>
+	
+     <string name="gr_html">
+	<![CDATA[
+	   <!-- START CONTENT -->
+		<div class="row">
+			<div class="twelve columns mobile-collapse">
+				<section class="content-columns-wrapper">
+					<section class="one-col">
+		
+		
+						<div id="content-area">
+															<h2>
+											Grenville (GR) and Russell House (RU)								</h2>
+										<h3>Designated parking</h3>
+		<p>One designated parking space at the back of Russell House. Additional spaces are available at Stormont-Dundas.</p>
+		<h3>Exterior Entrance</h3>
+		<p>Accessible main entrances at ground level.</p>
+		<h3>Tunnel Access</h3>
+		<p>Accessible tunnel entrance directly across from tunnel entrance to the Commons Building and Glengarry House.</p>
+		<h3>Elevators</h3>
+		<p>One useable elevator; dimensions not sufficient to accommodate a large wheelchair, some control buttons may be difficult to reach for some wheelchair users.</p>
+		<h3>Washrooms</h3>
+		<p>Inaccessible public washrooms. Private washrooms in the designated accessible suites should be accessible.</p>
+		<h3>Telephones</h3>
+		<p>Accessible phones in the lobby of Russell House and Grenville House.</p>
+		<h3>Lecture/Classroom Areas</h3>
+		<p>Not applicable.</p>
+		<h3>Study Areas</h3>
+		<p>Not applicable.</p>
+		<h3>Proximity to Lounges/Refreshments</h3>
+		<p>Residence floors have large accessible TV lounges. Close to all cafeteria/ lounge facilities in the Commons.</p>
+		<h3>Existing/Remaining Obstacles</h3>
+		<p>Elevator not very accessible; heavy doors with high handles at tunnel entrance; need an automatic door opener; Rooms 165 A and B (one of the designated accessible suites) still have minor access problems.</p>
+		<h3>Remarks/Hints</h3>
+		<p>A two-bedroom suite has been renovated to accommodate students with disabilities in each of these two residences.</p>
+		<p>Compiled by the <a href="http://www.carleton.ca/pmc/" >Paul Menton Centre for Persons with Disabilities</a>.</p>
+						</div>
+					</section>
+				</section>
+			</div>
+		</div>
+		<!-- END CONTENT -->
+    ]]>
+	</string>
+	
+     <string name="hp_html">
+	<![CDATA[
+	   <!-- START CONTENT -->
+		<div class="row">
+			<div class="twelve columns mobile-collapse">
+				<section class="content-columns-wrapper">
+					<section class="one-col">
+		
+		
+						<div id="content-area">
+															<h2>
+											Herzberg Laboratories (HP)								</h2>
+										<p><img class="alignnone size-full wp-image-52" title="herz300" src="http://carleton.ca/campus/wp-content/uploads/herz300.gif" alt="herz300" width="300" height="199" /></p>
+		<p>The Herzberg Laboratories for Physics and Computer Science was named for Gerhard Herzberg, Canada&#8217;s first Nobel Prize recipient for natural sciences, and Carleton&#8217;s former Chancellor.</p>
+		<p>The building houses the School of Computer Science, the School of Mathematics and Statistics, the Department of Physics, Department of Earth Sciences (including their $10 million POLARIS project), the Environmental Science program, Integrated Science program, and the Faculty of Science Dean&#8217;s Office.</p>
+		<p>A roof-top observatory features a powerful star-gazing 14&#8243; reflecting Celestron telescope.</p>
+		<p><a href="http://carleton.ca/campus/accessibility-guides/herzberg-laboratories-hp/" >Campus Accessibility Guide listing for the Herzberg Laboratories.</a></p>
+						</div>
+					</section>
+				</section>
+			</div>
+		</div>
+		<!-- END CONTENT -->
+    ]]>
+	</string>
+	
+     <string name="lh_html">
+	<![CDATA[
+	   <!-- START CONTENT -->
+		<div class="row">
+			<div class="twelve columns mobile-collapse">
+				<section class="content-columns-wrapper">
+					<section class="one-col">
+		
+		
+						<div id="content-area">
+															<h2>
+											Lanark House (LH)								</h2>
+										<h3>Designated Parking</h3>
+		<p>Closest is located on the east side of Stormont-Dundas House (eight spaces), Campus Avenue.</p>
+		<h3>Exterior Entrance</h3>
+		<p>Ground level access only.</p>
+		<h3>Tunnel Access</h3>
+		<p>No tunnel access to this building.</p>
+		<h3>Elevators</h3>
+		<p>None.</p>
+		<h3>Washrooms</h3>
+		<p>Not accessible.</p>
+		<h3>Telephones</h3>
+		<p>Lowered phones on the first level are accessible to wheelchair users.</p>
+		<h3>Lecture/Classroom Areas</h3>
+		<p>Not applicable.</p>
+		<h3>Study Areas</h3>
+		<p>Not applicable.</p>
+		<h3>Proximity to Lounges/Refreshments</h3>
+		<p>Residence floors have their own lounges. Closest to Oasis Cafeteria on first level of the Commons.</p>
+		<h3>Existing/Remaining Obstacles</h3>
+		<p>No elevator; no accessible washrooms; no tunnel access.</p>
+		<h3>Remarks/Hints</h3>
+		<p>Lanark House is generally inaccessible to persons with mobility impairments. It has numerous access problems requiring major and costly renovations. This is not a major concern since there are already accessible units in Glengary House, Russell House, Grenville House, and Stormont-Dundas House.</p>
+		<p>Compiled by the <a href="http://www.carleton.ca/pmc/" >Paul Menton Centre for Persons with Disabilities</a>.</p>
+						</div>
+					</section>
+				</section>
+			</div>
+		</div>
+		<!-- END CONTENT -->
+    ]]>
+	</string>
+	
+     <string name="ls_html">
+	<![CDATA[
+	   <!-- START CONTENT -->
+		<div class="row">
+			<div class="twelve columns mobile-collapse">
+				<section class="content-columns-wrapper">
+					<section class="one-col">
+		
+		
+						<div id="content-area">
+															<h2>
+											Life Sciences Research Building								</h2>
+										<p><img class="alignnone size-full wp-image-61" title="lifesciences" src="http://carleton.ca/campus/wp-content/uploads/lifesciences.gif" alt="lifesciences" width="300" height="199" /></p>
+		<p>The Life Sciences Research Building is a specialized laboratory which supports experimental work in the biological, biochemical, and behavioural sciences.</p>
+		<p><a href="http://carleton.ca/campus/accessibility-guides/life-sciences-research-building-ls/" >Campus Accessibility Guide listing for the Life Sciences Research Building.</a></p>
+						</div>
+					</section>
+				</section>
+			</div>
+		</div>
+		<!-- END CONTENT -->
+    ]]>
+	</string>
+	
+     <string name="la_html">
+	<![CDATA[
+	   <!-- START CONTENT -->
+		<div class="row">
+			<div class="twelve columns mobile-collapse">
+				<section class="content-columns-wrapper">
+					<section class="one-col">
+		
+		
+						<div id="content-area">
+															<h2>
+											The Loeb Building (LA)								</h2>
+										<p><img class="alignnone size-full wp-image-64" title="loeb" src="http://carleton.ca/campus/wp-content/uploads/loeb.gif" alt="loeb" width="250" height="290" /></p>
+		<p>The Loeb Building recognizes the financial contributions made to Carleton by Ottawa’s Loeb family. It houses offices for the Faculty of Public Affairs, as well as various academic departments, a cafeteria and lounge, classrooms and laboratories.</p>
+		<p>It is also home to the University’s Music department with its extensive collection of musical instruments, scores and periodicals.</p>
+		<p><a href="http://carleton.ca/campus/accessibility-guides/loeb-building-la/" >Campus Accessibility Guide listing for the Loeb Building.</a></p>
+						</div>
+					</section>
+				</section>
+			</div>
+		</div>
+		<!-- END CONTENT -->
+    ]]>
+	</string>
+	
+     <string name="me_html">
+	<![CDATA[
+	   <!-- START CONTENT -->
+		<div class="row">
+			<div class="twelve columns mobile-collapse">
+				<section class="content-columns-wrapper">
+					<section class="one-col">
+		
+		
+						<div id="content-area">
+															<h2>
+											The Mackenzie Engineering Building (ME)								</h2>
+										<p><img class="alignnone size-full wp-image-68" title="mackenzie" src="http://carleton.ca/campus/wp-content/uploads/mackenzie.gif" alt="mackenzie" width="250" height="163" /></p>
+		<p>The Mackenzie Building honours Chalmers Jack Mackenzie who was Carleton’s second chancellor, president of the National Research Council, first president of Atomic Energy of Canada Limited and instrumental in the development of science and engineering education in Canada.</p>
+		<p>The building contains facilities to support all engineering disciplines. It’s also home to Carleton’s industrial design program.</p>
+		<p><a href="http://carleton.ca/campus/accessibility-guides/mackenzie-engineering-building-me/" >Campus Accessibility Guide listing for the Mackenzie Building.</a></p>
+						</div>
+					</section>
+				</section>
+			</div>
+		</div>
+		<!-- END CONTENT -->
+    ]]>
+	</string>
+	
+     <string name="ml_html">
+	<![CDATA[
+	   <!-- START CONTENT -->
+		<div class="row">
+			<div class="twelve columns mobile-collapse">
+				<section class="content-columns-wrapper">
+					<section class="one-col">
+		
+		
+						<div id="content-area">
+															<h2>
+											MacOdrum Library								</h2>
+										<p><img class="alignnone size-full wp-image-72" title="library" src="http://carleton.ca/campus/wp-content/uploads/library.gif" alt="library" width="250" height="131" /></p>
+		<p>The MacOdrum Library, named in honour of Carleton’s second president Murdoch Maxwell MacOdrum, contains a collection of more than two million items—books, microfilms, tapes, CDs, government documents, maps, periodicals and archival materials—as well as study space, reading rooms and café.</p>
+		<p>A computerized catalogue system provides access to the collection.</p>
+		<h3>Related links</h3>
+		<ul>
+		<li>Access Services<br />
+		<a href="http://www.library.carleton.ca/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.library.carleton.ca/']);">http://www.library.carleton.ca/</a></li>
+		<li>Acquisitions<br />
+		<a href="http://www.library.carleton.ca/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.library.carleton.ca/']);"> http://www.library.carleton.ca/</a></li>
+		<li>Cataloguing<br />
+		<a href="http://www.library.carleton.ca/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.library.carleton.ca/']);"> http://www.library.carleton.ca/</a></li>
+		<li>CCS Help Desk, 4th Floor<br />
+		<a href="http://apps.carleton.ca/ccs/" > http://apps.carleton.ca/ccs/</a></li>
+		<li>Circle of Friends<br />
+		<a href="http://www.library.carleton.ca/friends/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.library.carleton.ca/friends/']);"> http://www.library.carleton.ca/friends/</a></li>
+		<li>Circulation Desk<br />
+		<a href="http://www.library.carleton.ca/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.library.carleton.ca/']);"> http://www.library.carleton.ca/</a></li>
+		<li>Graphic Services&#8217; Satellite Unit &amp; Photocopy Centre, Room 150<br />
+		<a href="http://www.carleton.ca/univservices/graphic_services/index.html " > http://www.carleton.ca/univservices/graphic_services/index.html</a></li>
+		<li>Interlibrary Loans<br />
+		<a href="http://www.library.carleton.ca/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.library.carleton.ca/']);"> http://www.library.carleton.ca/</a></li>
+		<li>Maps, Data and Government Information Centre<br />
+		<a href="http://www.library.carleton.ca/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.library.carleton.ca/']);"> http://www.library.carleton.ca/</a></li>
+		<li>Joy Maclaren Adaptive Technology Centre</li>
+		<li>Library Data Centre<br />
+		<a href="http://www.library.carleton.ca/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.library.carleton.ca/']);"> http://www.library.carleton.ca/</a></li>
+		<li>Page Break Café</li>
+		<li>Reference/Information Desk<br />
+		<a href="http://www.library.carleton.ca/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.library.carleton.ca/']);"> http://www.library.carleton.ca/</a></li>
+		<li>Reserves<br />
+		<a href="http://www.library.carleton.ca/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.library.carleton.ca/']);"> http://www.library.carleton.ca/</a></li>
+		<li>Special Collections and Archives<br />
+		<a href="http://www.library.carleton.ca/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.library.carleton.ca/']);"> http://www.library.carleton.ca/</a></li>
+		<li>Stacks Desk<br />
+		<a href="http://www.library.carleton.ca/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.library.carleton.ca/']);"> http://www.library.carleton.ca/</a></li>
+		</ul>
+		<p><a href="http://carleton.ca/campus/accessibility-guides/macodrum-library-ml/" >Campus Accessibility Guide listing for the MacOdrum Library.</a></p>
+						</div>
+					</section>
+				</section>
+			</div>
+		</div>
+		<!-- END CONTENT -->
+    ]]>
+	</string>
+	
+     <string name="mc_html">
+	<![CDATA[
+	   <!-- START CONTENT -->
+		<div class="row">
+			<div class="twelve columns mobile-collapse">
+				<section class="content-columns-wrapper">
+					<section class="one-col">
+		
+		
+						<div id="content-area">
+															<h2>
+											The Minto Centre								</h2>
+										<p><img class="alignnone size-full wp-image-78" title="minto" src="http://carleton.ca/campus/wp-content/uploads/minto.gif" alt="minto" width="250" height="128" /></p>
+		<p>The Minto Centre for Advanced Studies in Engineering, located off the east wing of the Mackenzie Building, houses state-of-the-art facilities for research and studies in engineering, including a flight-simulating wind tunnel. A 400-seat lecture theatre offers the latest in audio-visual equipment. The building is named in honour of Minto Developments Inc., an Ottawa-based real estate development firm.</p>
+		<p><a href="http://carleton.ca/campus/accessibility-guides/minto-centre-mc/" >Campus Accessibility Guide listing for the Minto Centre.</a></p>
+						</div>
+					</section>
+				</section>
+			</div>
+		</div>
+		<!-- END CONTENT -->
+    ]]>
+	</string>
+	
+     <string name="nb_html">
+	<![CDATA[
+	   <!-- START CONTENT -->
+		<div class="row">
+			<div class="twelve columns mobile-collapse">
+				<section class="content-columns-wrapper">
+					<section class="one-col">
+		
+		
+						<div id="content-area">
+															<h2>
+											Nesbitt Building (NB)								</h2>
+										<h3>H. H. J. Nesbitt Biology Building</h3>
+		</p>
+		<p>Formerly known as the Environmental Laboratories (ELBA)</p>
+		<h3>Designated Parking</h3>
+		</p>
+		<p>Closest parking for persons with disabilities is in the Parking Garage (five spaces) and Lot 3 (four spaces). There is also plenty of non-designated, spacious, pay and display spots nearby on University Drive. </p>
+		<h3>Exterior Entrance</h3>
+		</p>
+		<p>Avoid the side entrance at the corner of Raven Road and University Drive, the main entrance is at the south side of the building.<br />
+		There are curb cuts at the corner of Raven Road and University Drive. </p>
+		<h3>Exterior Areas </h3>
+		</p>
+		<p>Picnic area to the south of building is easily accessible from the walkway that runs long University Drive. </p>
+		<h3>Tunnel Access</h3>
+		</p>
+		<p>Accessible at basement level to passenger elevator. </p>
+		<h3>Elevators</h3>
+		</p>
+		<p>Refurbished, accessible passenger elevator to all levels </p>
+		<h3>Washrooms</h3>
+		</p>
+		<p>Washrooms are fully accessible. Main level washrooms have automatic door operators. </p>
+		<h3>Telephones</h3>
+		</p>
+		<p>There are no public telephones</p>
+		<h3>Lecture/Classroom Areas</h3>
+		</p>
+		<p>Not applicable.</p>
+		<h3>Study Areas</h3>
+		</p>
+		<p>Small, pleasant lounge/study area at front entrance accessible from Monday to Friday 8:30 am to 4:30 pm</p>
+		<h3>Proximity to Lounges/Refreshments</h3>
+		</p>
+		<p>Free standing tables and chairs near main entrance for lounging or studying. </p>
+		<p>Two display greenhouses on Main level, both are accessible. Smaller greenhouse has one narrow pathway near the back, but is navigable. Both greenhouses have some tight turns, but are accessible.  </p>
+		<h3>Existing/Remaining Obstacles</h3>
+		</p>
+		<p>No significant barriers </p>
+		<h3>Remarks/Hints</h3>
+		</p>
+		<p>For individuals with mobility impairments, greenhouses may be easier to navigate in a manual wheelchair, but electric wheelchairs can access both greenhouses. </p>
+		<p>Compiled by the <a href="http://www.carleton.ca/pmc/" >Paul Menton Centre for Persons with Disabilities</a>.</p>
+						</div>
+					</section>
+				</section>
+			</div>
+		</div>
+		<!-- END CONTENT -->
+    ]]>
+	</string>
+	
+     <string name="nw_html">
+	<![CDATA[
+	   <!-- START CONTENT -->
+		<div class="row">
+			<div class="twelve columns mobile-collapse">
+				<section class="content-columns-wrapper">
+					<section class="one-col">
+		
+		
+						<div id="content-area">
+															<h2>
+											National Wildlife Research Centre								</h2>
+										<p><img class="alignnone size-full wp-image-86" title="nwrc" src="http://carleton.ca/campus/wp-content/uploads/nwrc.jpg" alt="nwrc" width="250" height="188" /></p>
+		<p>The <a href="http://www.cws-scf.ec.gc.ca/nwrc-cnrf/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.cws-scf.ec.gc.ca/nwrc-cnrf/']);">National Wildlife Research Centre</a> occupies new facilities on the Carleton University campus in Ottawa, Ontario, Canada. This location opens the door to new partnerships, giving government and university scientists new opportunities to collaborate on science that is critical to wildlife conservation.</p>
+		<p>The modern research centre has approximately 5700 m² of floor space and includes:</p>
+		<ul>
+		<li><strong>Laboratories<br />
+		<span style="font-weight: normal;">15 well-equipped laboratories to support the monitoring and research activities of the Wildlife Toxicology Division and to accommodate students and researchers.</p>
+		<p></span></strong></li>
+		<li><strong>Greenhouse<br />
+		</strong>A 100 m²  greenhouse and plant growth chambers for studies requiring controlled environmental conditions.</li>
+		</ul>
+		<ul>
+		<li><strong>Specimen bank<br />
+		</strong>Wildlife specimen storage facilities with three walk-in freezer rooms<br />
+		(-40°C), four ultra-low temperature (-80°C) chest freezers, and four liquid nitrogen storage tanks (about -150°C in the vapour phase).</li>
+		</ul>
+						</div>
+					</section>
+				</section>
+			</div>
+		</div>
+		<!-- END CONTENT -->
+    ]]>
+	</string>
+	
+     <string name="pa_html">
+	<![CDATA[
+	   <!-- START CONTENT -->
+		<div class="row">
+			<div class="twelve columns mobile-collapse">
+				<section class="content-columns-wrapper">
+					<section class="one-col">
+		
+		
+						<div id="content-area">
+															<h2>
+											Paterson Hall								</h2>
+										<p><img class="alignnone size-full wp-image-89" title="patterson" src="http://carleton.ca/campus/wp-content/uploads/patterson.gif" alt="patterson" width="300" height="199" /></p>
+		<p>Paterson Hall is named after Norman Paterson, one of Canada’s longest serving senators whose generous financial support helped to develop Carleton’s world-renowned programs in international affairs.</p>
+		<p>Here you’ll find the College of Humanities, the Department of History, the Department of Philosophy, the Institute for African Studies, the CAEL Office and the School of Linguistics and Language Studies.</p>
+		<p>A branch of the Bank of Nova Scotia is located on the lower level.</p>
+		<p><a href="http://carleton.ca/campus/accessibility-guides/paterson-hall-pa/" >Accessibility Guide Listing for Paterson Hall.</a></p>
+						</div>
+					</section>
+				</section>
+			</div>
+		</div>
+		<!-- END CONTENT -->
+    ]]>
+	</string>
+	
+     <string name="rh_html">
+	<![CDATA[
+	   <!-- START CONTENT -->
+		<div class="row">
+			<div class="twelve columns mobile-collapse">
+				<section class="content-columns-wrapper">
+					<section class="one-col">
+		
+		
+						<div id="content-area">
+															<h2>
+											Renfrew House (RH)								</h2>
+										<h3>Designated parking</h3>
+		<p>Closest is in front of Stormont-Dundas House.</p>
+		<h3>Exterior Entrance</h3>
+		<p>Level 1 access only from entrances off Library Road.</p>
+		<h3>Tunnel Access</h3>
+		<p>No tunnel access.</p>
+		<h3>Elevators</h3>
+		<p>No elevator.</p>
+		<h3>Washrooms</h3>
+		<p>Inaccessible</p>
+		<h3>Telephones</h3>
+		<p>Accessible phones on first level.</p>
+		<h3>Lecture/Classroom Areas</h3>
+		<p>Not applicable.</p>
+		<h3>Study Areas</h3>
+		<p>Not applicable.</p>
+		<h3>Proximity to Lounges/Refreshments</h3>
+		<p>Residence floors have their own lounges. Close to all cafeteria/lounge facilities in the University Commons Building.</p>
+		<h3>Existing/Remaining Obstacles</h3>
+		<p>Need for an accessible graduate residence.</p>
+		<h3>Remarks/Hints</h3>
+		<p>Renfrew House is the designated graduate student residence. It is completely inaccessible to wheelchair users.</p>
+		<p>Compiled by the <a href="http://www.carleton.ca/pmc/" >Paul Menton Centre for Persons with Disabilities</a>.</p>
+						</div>
+					</section>
+				</section>
+			</div>
+		</div>
+		<!-- END CONTENT -->
+    ]]>
+	</string>
+	
+     <string name="co_html">
+	<![CDATA[
+	   <!-- START CONTENT -->
+		<div class="row">
+			<div class="twelve columns mobile-collapse">
+				<section class="content-columns-wrapper">
+					<section class="one-col">
+		
+		
+						<div id="content-area">
+															<h2>
+											Residence Commons (RC)								</h2>
+										<h3>Designated parking</h3>
+		<p>In front of Stormont-Dundas House (six spaces).</p>
+		<h3>Exterior Entrance</h3>
+		<p>West side entrance via ramp. Automatic door.</p>
+		<h3>Tunnel Access</h3>
+		<p>Tunnel entrance to level 1 equipped with an automatic door opener.</p>
+		<h3>Elevators</h3>
+		<p>An accessible elevator designated for the exclusive use of persons with disabilities.</p>
+		<h3>Washrooms</h3>
+		<p>Accessible public washrooms located outside the PMC office.</p>
+		<h3>Telephones</h3>
+		<p>Pay phones on levels 1 and 2 are accessible.</p>
+		<h3>Lecture/Classroom Areas</h3>
+		<p>Classrooms are generally accessible.</p>
+		<h3>Study Areas</h3>
+		<p>No study areas. PMC, Counselling and Health Services operate a Student Resource Centre as part of the PMC Satellite Office.</p>
+		<h3>Proximity to Lounges/Refreshments</h3>
+		<p>Vending machines, lounge areas, Oasis Cafeteria, Bree&#8217;s Inn, Abstentions Store, and main residence cafeteria/dining hall.</p>
+		<h3>Existing/Remaining Obstacles</h3>
+		<p>Fenn Lounge on level 2 is accessible at the upper level only.</p>
+		<h3>Remarks/Hints</h3>
+		<p>The Office of the Coordinator of the 24-hour Attendant Services Program is located in Room 223.</p>
+		<p>Compiled by the <a href="http://www.carleton.ca/pmc/" >Paul Menton Centre for Persons with Disabilities</a>.</p>
+						</div>
+					</section>
+				</section>
+			</div>
+		</div>
+		<!-- END CONTENT -->
+    ]]>
+	</string>
+	
+     <string name="ro_html">
+	<![CDATA[
+	   <!-- START CONTENT -->
+		<div class="row">
+			<div class="twelve columns mobile-collapse">
+				<section class="content-columns-wrapper">
+					<section class="one-col">
+		
+		
+						<div id="content-area">
+															<h2>
+											Robertson Hall (RO)								</h2>
+										<p><img class="alignnone size-full wp-image-96" title="robertson" src="http://carleton.ca/campus/wp-content/uploads/robertson.gif" alt="robertson" width="200" height="120" /></p>
+		<p>Robertson Hall is named in honour of former chancellor and chancellor emeritus Gordon Robertson.</p>
+		<p>It houses the University Archives, Admissions Services, the Undergraduate Recruitment Office, the Business Office, Awards Office, Computing and Communications Services, Human Resources, University Services, Graphic Services, University Communications, Development and Alumni, meeting rooms and offices for the University Senate and Board of Governors.</p>
+		<p>A wall in the lobby recognizes major contributors to the University’s Challenge Fund Campaign.</p>
+		<p><a href="http://carleton.ca/campus/accessibility-guides/robertson-hall/" >Campus Accessibility Guide listing for Robertson Hall.</a></p>
+						</div>
+					</section>
+				</section>
+			</div>
+		</div>
+		<!-- END CONTENT -->
+    ]]>
+	</string>
+	
+     <string name="sp_html">
+	<![CDATA[
+	   <!-- START CONTENT -->
+		<div class="row">
+			<div class="twelve columns mobile-collapse">
+				<section class="content-columns-wrapper">
+					<section class="one-col">
+		
+		
+						<div id="content-area">
+															<h2>
+											St. Patrick&#8217;s Building (SP)								</h2>
+										<p><img class="alignnone size-full wp-image-105" title="stpat" src="http://carleton.ca/campus/wp-content/uploads/stpat.gif" alt="stpat" width="250" height="158" /></p>
+		<p>The St. Patrick’s Building once housed St. Patrick’s College, a small liberal arts school which was part of Carleton University from 1967-79. The building is now home to the Institute of Comparative Studies in Literature, Art and Culture (ICSLAC), the School of Journalism and Communication, the School for Studies in Art and Culture, the Carleton University Art Gallery, and the extensive Reader&#8217;s Digest Resource Centre.</p>
+		<h3>Occupants</h3>
+		<ul>
+		<li><a href="http://www.carleton.ca/ssac/" >Art and Culture, School for Studies in</a>, Room 423</li>
+		<li><a href="http://www.carleton.ca/gallery/" >Art Gallery</a>, Carleton University</li>
+		<li><a href="http://carleton.ca/arthistory/" >Art History</a>, Room 423</li>
+		<li>Art History, Centre for New Work in Canadian, Room 476</li>
+		<li>Audio-Visual Library, Room 460</li>
+		<li>Cinema and Nation, Centre for Studies in, Room 418</li>
+		<li><a href="http://www.carleton.ca/ssac/filmstudies/" >Film Studies</a>, Room 423B</li>
+		<li><a href="http://www.carleton.ca/icslac/" >Institute of Comparative Studies in Literature</a>, Art and Culture (ICSLAC), Room 201</li>
+		<li><a href="http://www.carleton.ca/jmc/" >Journalism and Communication</a>, School of, Room 346</li>
+		<li><a href="http://carleton.ca/communication/prospective/ma-communication/" >Mass Communication</a>, Room 310</li>
+		<li><a href="http://carleton.ca/sjc/readers-digest-resource-centre/" >Reader&#8217;s Digest Canada Resource Centre</a>, Room 102</li>
+		<li><a href="http://carleton.ca/sjc/cu-survey-centre/" >Survey Centre</a>, Carleton University, Room 312</li>
+		</ul>
+		<p><a href="http://carleton.ca/campus/accessibility-guides/st-patricks-building-sp/" >Campus Accessibility Guide listing for the St. Patrick&#8217;s Building.</a></p>
+						</div>
+					</section>
+				</section>
+			</div>
+		</div>
+		<!-- END CONTENT -->
+    ]]>
+	</string>
+	
+     <string name="sr_html">
+	<![CDATA[
+	   <!-- START CONTENT -->
+		<div class="row">
+			<div class="twelve columns mobile-collapse">
+				<section class="content-columns-wrapper">
+					<section class="one-col">
+		
+		
+						<div id="content-area">
+															<h2>
+											Social Sciences Research Building (SR)								</h2>
+										<p><img class="alignnone size-full wp-image-99" title="ss_research" src="http://carleton.ca/campus/wp-content/uploads/ss_research.gif" alt="ss_research" width="300" height="199" /></p>
+		<p>The Social Sciences Research Building houses research centres that support studies in the social sciences. These include the Centre for Immigration and Ethno-Cultural Studies, the Centre for Labour Studies, and the Laboratory of Sleep and Chronopsychology.</p>
+		<p><a href="http://carleton.ca/campus/accessibility-guides/social-sciences-research-building/" >Campus Accessibility listing for Social Sciences Research Building (SR)</a></p>
+						</div>
+					</section>
+				</section>
+			</div>
+		</div>
+		<!-- END CONTENT -->
+    ]]>
+	</string>
+	
+     <string name="sa_html">
+	<![CDATA[
+	   <!-- START CONTENT -->
+		<div class="row">
+			<div class="twelve columns mobile-collapse">
+				<section class="content-columns-wrapper">
+					<section class="one-col">
+		
+		
+						<div id="content-area">
+															<h2>
+											Southam Hall								</h2>
+										<p><img class="alignnone size-full wp-image-102" title="southam" src="http://carleton.ca/campus/wp-content/uploads/southam.gif" alt="southam" width="252" height="165" /></p>
+		<p>Southam Hall honours Carleton’s first chancellor and former publisher of The Ottawa Citizen Harry Stevenson Southam, who also donated a significant portion of the land on which the campus is built.</p>
+		<p>Here you will find the 444-seat Kailash Mital Theatre, Carleton’s largest lecture hall. Two fully-equipped television studios on the sixth floor are used by Carleton’s instructional television service (CUTV), which provides distance education courses throughout the Ottawa Valley via digital cable television, and by students in the University’s highly acclaimed journalism program.</p>
+		<p>The Outdoor Amphitheatre between Southam and Paterson halls is used for concerts and classes during fair weather.</p>
+		<p><a href="http://carleton.ca/campus/accessibility-guides/southam-hall-sa/" >Campus Accessibility Guide listing for Southam Hall</a></p>
+						</div>
+					</section>
+				</section>
+			</div>
+		</div>
+		<!-- END CONTENT -->
+    ]]>
+	</string>
+	
+     <string name="sc_html">
+	<![CDATA[
+	   <!-- START CONTENT -->
+		<div class="row">
+			<div class="twelve columns mobile-collapse">
+				<section class="content-columns-wrapper">
+					<section class="one-col">
+		
+		
+						<div id="content-area">
+															<h2>
+											Steacie Building (SC)								</h2>
+										<p><img class="alignnone size-full wp-image-111" title="steacie" src="http://carleton.ca/campus/wp-content/uploads/steacie.gif" alt="steacie" width="250" height="132" /></p>
+		<p>The Steacie Building for Chemistry is named in honour of E.W.R. Steacie, a distinguished chemist who served as chair of Carleton’s board of governors and president of the National Research Council.</p>
+		<p>The building houses a lecture theatre, classrooms, labs, and a computer room.</p>
+		<p><a href="http://carleton.ca/campus/accessibility-guides/steacie-building-sc/" >Campus Accessibility Guide listing for the Steacie Building.</a></p>
+						</div>
+					</section>
+				</section>
+			</div>
+		</div>
+		<!-- END CONTENT -->
+    ]]>
+	</string>
+	
+     <string name="sd_html">
+	<![CDATA[
+	   <!-- START CONTENT -->
+		<div class="row">
+			<div class="twelve columns mobile-collapse">
+				<section class="content-columns-wrapper">
+					<section class="one-col">
+		
+		
+						<div id="content-area">
+															<h2>
+											Stormont-Dundas House (SD)								</h2>
+										<h3>Designated parking</h3>
+		<p>Eight designated parking spaces on east side of the building.</p>
+		<h3>Exterior Entrance</h3>
+		<p>All exterior entrances are accessible at ground level.</p>
+		<h3>Tunnel Access</h3>
+		<p>Accessible tunnel entrance with automatic doors.</p>
+		<h3>Elevators</h3>
+		<p>Two accessible elevators, one in each residence.</p>
+		<h3>Washrooms</h3>
+		<p>No public washroom in this building, but washrooms in the 20 accessible units are fully accessible.</p>
+		<h3>Lecture/Classroom Areas</h3>
+		<p>Not applicable.</p>
+		<h3>Study Areas</h3>
+		<p>TV lounge and study areas on each floor.</p>
+		<h3>Proximity to Lounges/Refreshments</h3>
+		<p>Direct access to main residence cafeteria, Oasis Cafeteria and vending machines in the Commons building.</p>
+		<p>Compiled by the <a href="http://www.carleton.ca/pmc/" >Paul Menton Centre for Persons with Disabilities</a>.</p>
+						</div>
+					</section>
+				</section>
+			</div>
+		</div>
+		<!-- END CONTENT -->
+    ]]>
+	</string>
+	
+     <string name="tb_html">
+	<![CDATA[
+	   <!-- START CONTENT -->
+		<div class="row">
+			<div class="twelve columns mobile-collapse">
+				<section class="content-columns-wrapper">
+					<section class="one-col">
+		
+		
+						<div id="content-area">
+															<h2>
+											Tory Building (TB)								</h2>
+										<p><img class="size-full wp-image-114 alignright" title="tory2" src="http://carleton.ca/campus/wp-content/uploads/tory2.jpg" alt="tory2" width="205" height="308" />The Tory building was the first building on campus. It was named after the first President of Carleton College, Henry Marshall Tory. The building has been renovated three times since Leslie Frost, then premier of Ontario, first laid its corner stone in 1957.</p>
+		<p>Only the mural in the central lecture hall, commonly known as “The Egg”, has remained unaltered. J. Harold Shenkman, a local entrepreneur, commissioned Gerald Trottier to create the piece. The Ottawa artist wanted the mural to depict humanity’s quest for knowledge.</p>
+		<p><a href="http://carleton.ca/campus/accessibility-guides/tory-building-tb/" >Campus Accessibility Guide listing for the Tory Building.</a></p>
+						</div>
+					</section>
+				</section>
+			</div>
+		</div>
+		<!-- END CONTENT -->
+    ]]>
+	</string>
+	
+    
+    <string name="UC_html">
+	<![CDATA[
+		<!-- START CONTENT -->
+		<div class="row">
+			<div class="twelve columns mobile-collapse">
+				<section class="content-columns-wrapper">
+					<section class="one-col">
+		
+		
+						<div id="content-area">
+															<h2>
+											University Centre (UC)								</h2>
+										<h3>Designated parking</h3>
+		<p>Available in Lot 2 (three spaces) and at the loading dock (two spaces). Lot 2 requires a permit to park.</p>
+		<h3>Exterior Entrance</h3>
+		<p>Two accessible entrances:</p>
+		<ol>
+		<li>main front entrance located on the east side of the building, near Parking Lot 2, and</li>
+		<li>loading dock entrance at level 2 by Porter Hall.</li>
+		</ol>
+		<p>Both have automatic door openers.</p>
+		<h3>Tunnel Access</h3>
+		<p>Tunnel entrances at the first level and on the fourth level from the University Centre-Tory Building link.</p>
+		<h3>Elevators</h3>
+		<p>One accessible elevator services all levels and is equipped with tactile buttons and signs. Does not service one wing of the third floor, which is serviced instead by a wheelchair lift from the second level.</p>
+		<h3>Washrooms</h3>
+		<p>Accessible washrooms located on levels 1, 2, 3, and 5.</p>
+		<h3>Telephones</h3>
+		<p>Pay phones accessible. Designated phones for priority use of persons with disabilities located on levels 2 (lobby of Porter Hall), 4 and 5.</p>
+		<h3>Lecture/Classroom Areas</h3>
+		<p>Porter Hall (level 2) and Baker&#8217;s lounge (level 4) are used for occasional events and lectures.</p>
+		<h3>Study Areas</h3>
+		<p>Baker&#8217;s lounge on fourth level.</p>
+		<h3>Proximity to Lounges/Refreshments</h3>
+		<p>Hugo&#8217;s, Arcade, Unicentre Store and Oliver&#8217;s on first level. Peppermill Cafeteria and Mike&#8217;s Place on second level. Rooster&#8217;s, Faculty Club on the fourth level.</p>
+		<h3>Existing/Remaining Obstacles</h3>
+		<p>More direct access through Porter Hall from the loading dock. No elevator access to one wing of the third floor.</p>
+		<h3>Remarks/Hints</h3>
+		<p>In order to avoid a steep, troublesome rise in the tunnel system as it goes around the University Centre (three stories high), students should use the University Centre-Tory Building link to get to the top of the tunnel rise.</p>
+		<p>Compiled by the <a href="http://www.carleton.ca/pmc/" >Paul Menton Centre for Persons with Disabilities</a>.</p>
+						</div>
+					</section>
+				</section>
+			</div>
+		</div>
+		<!-- END CONTENT -->
+	]]>
+	</string>
+
+</resources>

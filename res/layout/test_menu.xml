@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/item1"
+          android:title="@string/about"
+          android:icon="@drawable/psg"
+          android:showAsAction="ifRoom|withText"/>
+    <group android:id="@+id/group">
+        <item android:id="@+id/group_item1"
+              android:onClick="onGroupItemClick"
+              android:title="@string/settings"
+              android:icon="@drawable/ic_launcher" />
+
+    </group>
+    <item android:id="@+id/submenu"
+          android:title="@string/about"
+          android:showAsAction="ifRoom|withText" >
+        <menu>
+            <item android:id="@+id/submenu_item1"
+                  android:title="@string/about" />
+        </menu>
+    </item>
+</menu>

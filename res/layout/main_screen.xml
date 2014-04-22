@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+       android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/imageView1"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/imageView1"
+        android:layout_below="@+id/imageView1"
+        android:layout_marginBottom="42dp"
+        android:layout_weight="0.94"
+        android:text="\n\nWelcome to CU Maps!\n\nThis application is designed to allow you to view information related to the various buildings on campus at Carleton University. It also allows you to find paths from building to building, either by using the place tab, the search icon at the top, or simply by scanning an nfc tag"
+        android:textSize="12sp"
+        android:typeface="serif" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="269dp"
+        android:layout_height="120dp"
+        android:layout_centerHorizontal="true"
+        android:scaleType="fitCenter"
+        android:src="@drawable/banner" />
+
+    <TextView
+        android:id="@+id/popupLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/textView6"
+        android:layout_marginRight="69dp"
+        android:text="Small Text"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:visibility="invisible" />
+
+</RelativeLayout>
+
+</FrameLayout>
